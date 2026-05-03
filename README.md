@@ -9,15 +9,14 @@ Stuff installed
 - treesitter
 - mason LSP
 - git tracker
-
+- toggleterminal
+- Autocomplete
 
 TODO
 
-- Autocomplete
 - Line Tracker
 - Bongo Cat
 - Time Tracker (Pomodoro Stuff)
-- idk, maybe internal command line
 
 
 KEYMAPS
